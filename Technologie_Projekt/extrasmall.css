@@ -1,0 +1,44 @@
+.container {
+    width:90%;
+}
+.game-cell {
+    height: 10vh;
+}
+.x::after {
+    font-size: 40px;
+}
+.o::after {
+    font-size: 40px;
+}
+.alert {
+    font-size: 0.7rem;
+}
+.title {
+    font-size: 1rem;
+}
+.status {
+    font-size: 0.6rem;
+}
+.reset{
+    font-size: 0.7rem;
+}
+/* SCORE */
+.score{
+    width:90%;
+    height:70vh;
+    font-size: 1.3rem;
+  }
+ p  {
+  font-size: 0.9rem;
+ }
+ .up {
+  width: 15vw;
+  height: 15vw;
+  font-size: 30px;
+ }
+ .scorereset {
+  
+  width: 15vw;
+  height: 15vw;
+  font-size: 30px;
+}
