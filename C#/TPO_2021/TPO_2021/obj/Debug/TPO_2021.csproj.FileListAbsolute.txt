@@ -1,0 +1,64 @@
+C:\Users\Mak\Desktop\TPO_2021\TPO_2021\bin\Debug\TPO_2021.exe.config
+C:\Users\Mak\Desktop\TPO_2021\TPO_2021\bin\Debug\TPO_2021.exe
+C:\Users\Mak\Desktop\TPO_2021\TPO_2021\bin\Debug\TPO_2021.pdb
+C:\Users\Mak\Desktop\TPO_2021\TPO_2021\obj\Debug\TPO_2021.csprojAssemblyReference.cache
+C:\Users\Mak\Desktop\TPO_2021\TPO_2021\obj\Debug\TPO_2021.Form1.resources
+C:\Users\Mak\Desktop\TPO_2021\TPO_2021\obj\Debug\TPO_2021.Properties.Resources.resources
+C:\Users\Mak\Desktop\TPO_2021\TPO_2021\obj\Debug\TPO_2021.csproj.GenerateResource.cache
+C:\Users\Mak\Desktop\TPO_2021\TPO_2021\obj\Debug\TPO_2021.csproj.CoreCompileInputs.cache
+C:\Users\Mak\Desktop\TPO_2021\TPO_2021\obj\Debug\TPO_2021.exe
+C:\Users\Mak\Desktop\TPO_2021\TPO_2021\obj\Debug\TPO_2021.pdb
+C:\Users\nkorz\Desktop\TPO_2021\TPO_2021\bin\Debug\TPO_2021.exe.config
+C:\Users\nkorz\Desktop\TPO_2021\TPO_2021\bin\Debug\TPO_2021.exe
+C:\Users\nkorz\Desktop\TPO_2021\TPO_2021\bin\Debug\TPO_2021.pdb
+C:\Users\nkorz\Desktop\TPO_2021\TPO_2021\obj\Debug\TPO_2021.csproj.AssemblyReference.cache
+C:\Users\nkorz\Desktop\TPO_2021\TPO_2021\obj\Debug\TPO_2021.Form1.resources
+C:\Users\nkorz\Desktop\TPO_2021\TPO_2021\obj\Debug\TPO_2021.Properties.Resources.resources
+C:\Users\nkorz\Desktop\TPO_2021\TPO_2021\obj\Debug\TPO_2021.csproj.GenerateResource.cache
+C:\Users\nkorz\Desktop\TPO_2021\TPO_2021\obj\Debug\TPO_2021.csproj.CoreCompileInputs.cache
+C:\Users\nkorz\Desktop\TPO_2021\TPO_2021\obj\Debug\TPO_2021.exe
+C:\Users\nkorz\Desktop\TPO_2021\TPO_2021\obj\Debug\TPO_2021.pdb
+C:\Users\SAN\Desktop\TPO_2021\TPO_2021\obj\Debug\TPO_2021.csproj.AssemblyReference.cache
+C:\Users\SAN\Desktop\TPO_2021\TPO_2021\obj\Debug\TPO_2021.Form1.resources
+C:\Users\SAN\Desktop\TPO_2021\TPO_2021\obj\Debug\TPO_2021.Properties.Resources.resources
+C:\Users\SAN\Desktop\TPO_2021\TPO_2021\obj\Debug\TPO_2021.csproj.GenerateResource.cache
+C:\Users\SAN\Desktop\TPO_2021\TPO_2021\obj\Debug\TPO_2021.csproj.CoreCompileInputs.cache
+C:\Users\SAN\Desktop\TPO_2021\TPO_2021\obj\Debug\TPO_2021.exe
+C:\Users\SAN\Desktop\TPO_2021\TPO_2021\obj\Debug\TPO_2021.pdb
+C:\Users\SAN\Desktop\TPO_2021\TPO_2021\bin\Debug\TPO_2021.exe.config
+C:\Users\SAN\Desktop\TPO_2021\TPO_2021\bin\Debug\TPO_2021.exe
+C:\Users\SAN\Desktop\TPO_2021\TPO_2021\bin\Debug\TPO_2021.pdb
+C:\Users\Grzechu\Desktop\Studia 5 semestr\C#\TPO_2021\TPO_2021\bin\Debug\TPO_2021.exe.config
+C:\Users\Grzechu\Desktop\Studia 5 semestr\C#\TPO_2021\TPO_2021\bin\Debug\TPO_2021.exe
+C:\Users\Grzechu\Desktop\Studia 5 semestr\C#\TPO_2021\TPO_2021\bin\Debug\TPO_2021.pdb
+C:\Users\Grzechu\Desktop\Studia 5 semestr\C#\TPO_2021\TPO_2021\obj\Debug\TPO_2021.csproj.AssemblyReference.cache
+C:\Users\Grzechu\Desktop\Studia 5 semestr\C#\TPO_2021\TPO_2021\obj\Debug\TPO_2021.Form1.resources
+C:\Users\Grzechu\Desktop\Studia 5 semestr\C#\TPO_2021\TPO_2021\obj\Debug\TPO_2021.Parametr.resources
+C:\Users\Grzechu\Desktop\Studia 5 semestr\C#\TPO_2021\TPO_2021\obj\Debug\TPO_2021.Properties.Resources.resources
+C:\Users\Grzechu\Desktop\Studia 5 semestr\C#\TPO_2021\TPO_2021\obj\Debug\TPO_2021.csproj.GenerateResource.cache
+C:\Users\Grzechu\Desktop\Studia 5 semestr\C#\TPO_2021\TPO_2021\obj\Debug\TPO_2021.csproj.CoreCompileInputs.cache
+C:\Users\Grzechu\Desktop\Studia 5 semestr\C#\TPO_2021\TPO_2021\obj\Debug\TPO_2021.exe
+C:\Users\Grzechu\Desktop\Studia 5 semestr\C#\TPO_2021\TPO_2021\obj\Debug\TPO_2021.pdb
+F:\TPO_2021\TPO_2021\bin\Debug\TPO_2021.exe.config
+F:\TPO_2021\TPO_2021\bin\Debug\TPO_2021.exe
+F:\TPO_2021\TPO_2021\bin\Debug\TPO_2021.pdb
+F:\TPO_2021\TPO_2021\obj\Debug\TPO_2021.csproj.AssemblyReference.cache
+F:\TPO_2021\TPO_2021\obj\Debug\TPO_2021.Form1.resources
+F:\TPO_2021\TPO_2021\obj\Debug\TPO_2021.Parametr.resources
+F:\TPO_2021\TPO_2021\obj\Debug\TPO_2021.Properties.Resources.resources
+F:\TPO_2021\TPO_2021\obj\Debug\TPO_2021.csproj.GenerateResource.cache
+F:\TPO_2021\TPO_2021\obj\Debug\TPO_2021.csproj.CoreCompileInputs.cache
+F:\TPO_2021\TPO_2021\obj\Debug\TPO_2021.exe
+F:\TPO_2021\TPO_2021\obj\Debug\TPO_2021.pdb
+D:\99631\TPO_2021\TPO_2021\bin\Debug\TPO_2021.exe.config
+D:\99631\TPO_2021\TPO_2021\bin\Debug\TPO_2021.exe
+D:\99631\TPO_2021\TPO_2021\bin\Debug\TPO_2021.pdb
+D:\99631\TPO_2021\TPO_2021\obj\Debug\TPO_2021.csproj.AssemblyReference.cache
+D:\99631\TPO_2021\TPO_2021\obj\Debug\TPO_2021.Form1.resources
+D:\99631\TPO_2021\TPO_2021\obj\Debug\TPO_2021.Parametr.resources
+D:\99631\TPO_2021\TPO_2021\obj\Debug\TPO_2021.Properties.Resources.resources
+D:\99631\TPO_2021\TPO_2021\obj\Debug\TPO_2021.csproj.GenerateResource.cache
+D:\99631\TPO_2021\TPO_2021\obj\Debug\TPO_2021.csproj.CoreCompileInputs.cache
+D:\99631\TPO_2021\TPO_2021\obj\Debug\TPO_2021.exe
+D:\99631\TPO_2021\TPO_2021\obj\Debug\TPO_2021.pdb
+C:\Users\Grzechu\Desktop\Studia 5 semestr\C#\TPO_2021\TPO_2021\obj\Debug\TPO_2021.Podgląd.resources
